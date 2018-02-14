@@ -1,0 +1,12 @@
+.background {
+    background-image: url("pc3.jpg");
+    background-size: initial;
+}
+
+.white a {
+    color: white;
+}
+.card-deck {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
